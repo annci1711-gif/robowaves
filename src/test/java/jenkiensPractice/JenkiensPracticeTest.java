@@ -6,6 +6,8 @@ public class JenkiensPracticeTest {
 	@Test
 	public void jenkiensPracticeTest() {
 		System.out.println("hii jenkiens");
+		System.out.println("biii jenkiens");
+	}
 	}
 
-}
+
